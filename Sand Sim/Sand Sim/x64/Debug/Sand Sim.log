@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Programmer\Desktop\Projeler\C Projeleri\Sand Sim\Sand Sim\main.c(82,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programmer\Desktop\Projeler\C Projeleri\Sand Sim\Sand Sim\main.c(86,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sand Sim.vcxproj -> C:\Users\Programmer\Desktop\Projeler\C Projeleri\Sand Sim\x64\Debug\Sand Sim.exe
